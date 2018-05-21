@@ -1,2 +1,2 @@
 # License #
-MIT License
+MIT License. GNU GPU
